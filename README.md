@@ -1,5 +1,5 @@
 ## GIT FOR MAINTAINERS
 # Branching 
-git branch: this will give list of branch you can know in which branch you are in 
+git branch: Lists all local branches and shows which branch you are currently on.
 git checkout : this is new definition 
 git checkout -b
